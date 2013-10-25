@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <plurals name="read_report_toast_msg">
+        <item quantity="other">Відправка %d звітів про прочитання</item>
+        <item quantity="one">Відправка %d звітів про прочитання</item>
+    </plurals>
+    <plurals name="message_view_selected_message_count">
+        <item quantity="other">Обрано: %d</item>
+        <item quantity="one">Обрано: %d</item>
+    </plurals>
+    <plurals name="deleted_conversations">
+        <item quantity="other">Видалено %1$s діалогів</item>
+        <item quantity="one">Один діалог видалено</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">Пошук \"%2$s\" (%1$s)</item>
+        <item quantity="one">Пошук \"%2$s\" (%1$s)</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s с.</item>
+        <item quantity="one">%s с.</item>
+        <item quantity="few">%s с.</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Діалоги будуть видалені (%1$s)</item>
+        <item quantity="one">Один буде видалено</item>
+    </plurals>
+    <plurals name="notification_multiple">
+        <item quantity="other">%d нових повідомлень.</item>
+        <item quantity="one">%d нових повідомлень.</item>
+    </plurals>
+    <plurals name="message_count_notification_overflow">
+        <item quantity="other">Ще повідомлень: %1$s</item>
+        <item quantity="one">Ще повідомлень: %1$s</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s чол.</item>
+    </plurals>
+</resources>

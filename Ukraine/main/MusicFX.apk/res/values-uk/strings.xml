@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <string name="presetreverb_name">Передустановка реверберації</string>
+    <string name="eq_preset_normal">Звичайний</string>
+    <string name="eq_preset_classical">Класика</string>
+    <string name="eq_preset_dance">Танцювальна</string>
+    <string name="eq_preset_flat">Плоска</string>
+    <string name="eq_preset_folk">Фольклорна</string>
+    <string name="eq_preset_heavymetal">Хеві-метал</string>
+    <string name="eq_preset_hiphop">Хіп-хоп</string>
+    <string name="eq_preset_jazz">Джаз</string>
+    <string name="eq_preset_pop">Поп</string>
+    <string name="eq_preset_rock">Рок</string>
+    <string name="app_name">MusicFX</string>
+    <string name="no_effects">Ефекти не доступні</string>
+    <string name="eq_dialog_title">Еквалайзер</string>
+    <string name="headset_plug">Для цих ефектів підключіть гарнітуру.</string>
+    <string name="bass_boost_strength">Підсилення басів</string>
+    <string name="virtualizer_strength">3D-ефект</string>
+    <string name="ci_extreme">FX booster</string>
+    <string name="user">Користувач</string>
+    <string name="picker_title">Панель керув. музичн. ефектами</string>
+    <string name="main_toggle_effects_title">Аудіоефекти</string>
+    <string name="pr_title">Акустика:</string>
+    <string name="pr_summary">Додаткові акустичні ефекти в приміщенні</string>
+    <string name="pr_dialog_title">Попередні налаштування акустики</string>
+    <string name="setup">Налаштування</string>
+</resources>

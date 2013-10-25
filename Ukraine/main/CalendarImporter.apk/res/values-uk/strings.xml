@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <string name="import_to">Імпорт в</string>
+    <string name="import_button">Імпорт</string>
+    <string name="cancel">Відміна</string>
+    <string name="no_access_toast">Обліковий запис не знайдено. Спочатку додайте обліковий запис.</string>
+    <string name="null_name">Ні</string>
+    <string name="import_message">Импортировать календарь?</string>
+    <string name="calendar_lable">Календар:</string>
+    <string name="date_lable">Дата:</string>
+    <string name="import_title">Імпорт події</string>
+    <string name="importing">Імпортування...</string>
+    <string name="import_complete">Імпорт завершено</string>
+    <string name="open">Відкрити</string>
+    <string name="done">Закінчити</string>
+    <string name="progresszero">0%</string>
+    <string name="import_vcs_failed">Не вдалося імпортувати події.</string>
+    <string name="title_lable">"Назва: "</string>
+    <string name="no_syncable_calendars">Не вдалося імпортувати</string>
+    <string name="no_calendars_found">Цей обліковий запис не підтримує синхронізацію календаря або остання синхронізація ще не завершена.</string>
+    <string name="retry">Повтор</string>
+    <string name="give_up">Переривання</string>
+    <string name="open_calendar_failed">Календар недоступний.</string>
+    <string name="loading">Завантаження...</string>
+</resources>

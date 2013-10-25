@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <string name="ringdroid_app_name">Програма Ringdroid</string>
+    <string name="main_activity_label">Програма Ringdroid</string>
+    <string name="button_start_record_activity">Записати новий</string>
+    <string name="sdcard_readonly">Вибачте, SD-карта тільки для читання - для Ringdroid потрібно записувана карта.</string>
+    <string name="no_sdcard">Вибачте, поки не вставлена SD-карта, Ringdroid не працює.</string>
+    <string name="sdcard_shared">Вибачте, поки телефон підключений до гнізда USB, Ringdroid не працює.</string>
+    <string name="start_label">Початок:</string>
+    <string name="end_label">Кінець:</string>
+    <string name="edit_intent">Змінити</string>
+    <string name="time_seconds">сек.</string>
+    <string name="what_to_do_with_ringtone">Збережено! Зробити сигналом дзвінка за замовчуванням або призначити для контакту?</string>
+    <string name="set_default_notification">Збережено! Зробити повідомленням за замовчуванням?</string>
+    <string name="make_default_ringtone_button">Типово</string>
+    <string name="choose_contact_ringtone_button">Призначити для контакту</string>
+    <string name="do_nothing_with_ringtone_button">Закрити</string>
+    <string name="progress_dialog_loading">Завантаження...</string>
+    <string name="progress_dialog_saving">Збереження...</string>
+    <string name="menu_save">Зберегти</string>
+    <string name="menu_reset">Скидання</string>
+    <string name="menu_about">Відомості</string>
+    <string name="menu_show_all_audio">Показати всі аудіо</string>
+    <string name="context_menu_edit">Змінити</string>
+    <string name="context_menu_delete">Видалити</string>
+    <string name="context_menu_default_ringtone">Типово</string>
+    <string name="context_menu_contact">Призначити для контакту</string>
+    <string name="context_menu_default_notification">Типово</string>
+    <string name="file_save_title">Зберегти як:</string>
+    <string name="file_save_button_save">Зберегти</string>
+    <string name="file_save_button_cancel">Скасувати</string>
+    <string name="ringtone_type_label">Тип:</string>
+    <string name="type_music">Музика</string>
+    <string name="type_alarm">Будильник</string>
+    <string name="type_notification">Повідомлення</string>
+    <string name="type_ringtone">Сигнал дзвінка</string>
+    <string name="ringtone_name_label">Ім\'я:</string>
+    <string name="artist_name">Програма Ringdroid</string>
+    <string name="delete_ringtone">Видалити сигнал дзвінка</string>
+    <string name="delete_alarm">Видалити сигнал будильника</string>
+    <string name="delete_notification">Видалити сповіщення</string>
+    <string name="delete_music">Видалити музику</string>
+    <string name="delete_audio">Видалити аудіо</string>
+    <string name="confirm_delete_ringdroid">Ви впевнені?</string>
+    <string name="confirm_delete_non_ringdroid">Ви впевнені? Файл створений не в програмі Ringdroid!</string>
+    <string name="delete_ok_button">Видалити</string>
+    <string name="delete_cancel_button">Скасувати</string>
+    <string name="delete_failed">Неможливо видалити файл</string>
+    <string name="alert_title_success">Готово</string>
+    <string name="alert_title_failure">Помилка</string>
+    <string name="alert_ok_button">ОК</string>
+    <string name="alert_yes_button">Так!</string>
+    <string name="alert_no_button">Ні.</string>
+    <string name="save_success_message">Збережено!</string>
+    <string name="default_ringtone_success_message">Сигнал дзвінка за замовчуванням змінено</string>
+    <string name="play_error">Неможливо відтворити файл мультимедіа</string>
+    <string name="no_unique_filename">Неможливо знайти унікальне ім\'я файлу</string>
+    <string name="delete_tmp_error">Помилка при видаленні тимчасового файлу</string>
+    <string name="record_error">Помилка при запуску диктофона</string>
+    <string name="too_small_error">Файл занадто короткий для збереження, подовжите його.</string>
+    <string name="write_error">Помилка запису файлу</string>
+    <string name="read_error">Помилка читання файлу</string>
+    <string name="no_space_error">SD-карта заповнена, недостатньо місця для збереження цього файлу.</string>
+    <string name="bad_extension_error">Вибачте, у Ringdroid поки неможлива редакція таких файлів</string>
+    <string name="no_extension_error">Вибачте, у Ringdroid неможлива редакція файлів з розширенням відмінним від. Mp3 або. WAV</string>
+    <string name="choose_contact_title">Для якого контакту призначити сигнал дзвінка?</string>
+    <string name="success_contact_ringtone">Сигнал дзвінка успішно призначений контакту:</string>
+    <string name="server_title">Діліться даними!</string>
+    <string name="server_prompt">Надіслати анонімні відомості про створені вами сигналах дзвінка та інших сигналах на Ringdroid.com у статистичних цілях?</string>
+    <string name="server_yes">Надіслати</string>
+    <string name="server_later">Запросити пізніше</string>
+    <string name="server_never">Ніколи</string>
+    <string name="error_server_prompt">Надіслати анонімні відомості про помилку на Ringdroid.com з метою усунення нами цією неполадки в майбутньому?</string>
+    <string name="about_title">Про програму Ringdroid</string>
+    <string name="about_text">"Редагуйте в програмі Ringdroid аудіофайли MP3 , WAV , AAC і AMR , створюйте сигнали дзвінка , будильника і повідомлення.
+
+Рада . Копіюйте аудіофайли на SD- карту за допомогою кабелю USB або MP3- файли - через додаток Amazon MP3 .
+
+Рада . Щоб видалити файл , натисніть та потримайте його на головному екрані. Див нижче ...
+
+Рада . Торкніться графіка сигналу в будь-якому місці , щоб почати відтворення .
+
+Рада . Для швидкого встановлення маркерів початку або кінця фрагмента торкніться під час відтворення слова Початок або Кінець .
+
+Рада . Для точного налаштування використовуйте коліщатко миші.
+
+версія 2.3
+
+Розробник: Dominic Mazzoni
+Графіка : Joseph Wain
+Підтримка і реклама: Eugene Koh
+
+Ringdroid - це відкрите ПЗ , яке розповсюджується за ліцензією Apache 2.0. Вихідний код див. на code.google.com
+"</string>
+</resources>

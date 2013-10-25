@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <string-array name="operatorDescs">
+        <item>відкрити дужку</item>
+        <item>закрити дужку</item>
+        <item>факторіал числа</item>
+        <item>натуральний логарифм числа</item>
+        <item>логарифм числа</item>
+        <item>квадратний корінь з числа</item>
+        <item>поділити на</item>
+        <item>помножити на</item>
+        <item>додати</item>
+        <item>відняти</item>
+        <item>десятковий дріб</item>
+        <item>до степеня</item>
+        <item>тангенс</item>
+        <item>сінус</item>
+        <item>косінус</item>
+        <item>число \"Пі\"</item>
+        <item>дорівнює</item>
+    </string-array>
+</resources>

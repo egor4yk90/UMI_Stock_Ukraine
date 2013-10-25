@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <string-array name="reverb_preset_list">
+        <item>Ні</item>
+        <item>Мала кімната</item>
+        <item>Середня кімната</item>
+        <item>Велика кімната</item>
+        <item>Середній зал</item>
+        <item>Великий зал</item>
+        <item>Пластинчастий ревербератор</item>
+    </string-array>
+</resources>

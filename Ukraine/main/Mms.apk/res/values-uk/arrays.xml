@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <string-array name="default_smiley_names">
+        <item>Радість</item>
+        <item>Пічалька</item>
+        <item>Підморгує</item>
+        <item>Показує язик</item>
+        <item>Здивований</item>
+        <item>Цьом</item>
+        <item>Крик</item>
+        <item>Крутий</item>
+        <item>Не п*зди</item>
+        <item>Розтірявся</item>
+        <item>Засоромили</item>
+        <item>Ангел</item>
+        <item>Нерішучий</item>
+        <item>Риве</item>
+        <item>Не скажу</item>
+        <item>Сміх</item>
+        <item>Задуманий</item>
+        <item>Серце</item>
+        <item>Злий</item>
+        <item>Посмішка</item>
+        <item>Незворушність</item>
+    </string-array>
+    <string-array name="empty_subject_strings">
+        <item>без теми</item>
+    </string-array>
+    <string-array name="default_quick_texts">
+        <item>Ти де?</item>
+        <item>Чим займаєшся?</item>
+        <item>Передзвони, будь ласка!</item>
+        <item>Вибачте, я зараз на народі.</item>
+        <item>Незабаром передзвоню.</item>
+        <item>Не хвилюйся,все Ок!</item>
+        <item>Йду додому.</item>
+        <item>Незабаром буду.</item>
+        <item>Приходь, не пропусти!</item>
+    </string-array>
+    <string-array name="pref_mms_creation_mode_choices">
+        <item>Обмежений режим</item>
+        <item>Режим попередження</item>
+        <item>Вільний режим</item>
+    </string-array>
+    <string-array name="pref_key_mms_priority_choices">
+        <item>Високий</item>
+        <item>Звичайний</item>
+        <item>Низький</item>
+    </string-array>
+    <string-array name="pref_sms_input_mode_choice">
+        <item>Абетка GSM</item>
+        <item>Unicode</item>
+        <item>Автоматично</item>
+    </string-array>
+    <string-array name="pref_sms_save_location_choices">
+        <item>Телефон</item>
+        <item>SIM-карта</item>
+    </string-array>
+    <string-array name="pref_tablet_sms_save_location_choices">
+        <item>Пристрій</item>
+        <item>SIM-карта</item>
+    </string-array>
+    <string-array name="pref_message_font_size_choices">
+        <item>Використовувати розмір системного шрифту</item>
+        <item>Дрібний</item>
+        <item>Середній</item>
+        <item>Великий</item>
+        <item>Дуже великий/item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 секунда</item>
+        <item>2 сек.</item>
+        <item>3 сек.</item>
+        <item>4 сек.</item>
+        <item>5 секунд</item>
+        <item>6 секунд</item>
+        <item>7 секунд</item>
+        <item>8 секунд</item>
+        <item>9 секунд</item>
+        <item>10 секунд</item>
+        <item>Інше</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Завжди</item>
+        <item>Тільки в режимі без звуку</item>
+        <item>Ніколи</item>
+    </string-array>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <string name="app_label">Постачальник джерел пошуку</string>
+    <string name="search_label">Застосунки</string>
+    <string name="application_desc">Застосунок</string>
+    <string name="settings_description">Назви встановлених додатків</string>
+    <string name="search_empty">Відповідностей немає</string>
+</resources>

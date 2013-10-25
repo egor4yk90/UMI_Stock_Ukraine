@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
+    <string-array name="reminder_methods_labels">
+        <item>Оповещение</item>
+        <item>Эл. почта</item>
+        <item>SMS</item>
+        <item>Сигнал</item>
+    </string-array>
+    <string-array name="reminder_minutes_labels">
+        <item>0 хвилин</item>
+        <item>1 хвилина</item>
+        <item>5 хвилин</item>
+        <item>10 хвилин</item>
+        <item>15 хвилин</item>
+        <item>20 хвилин</item>
+        <item>25 хвилин</item>
+        <item>30 хвилин</item>
+        <item>45 хвилин</item>
+        <item>1 година</item>
+        <item>2 години</item>
+        <item>3 година</item>
+        <item>12 годин</item>
+        <item>24 години</item>
+        <item>2 дня</item>
+        <item>1 тиждень</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>Ні</item>
+        <item>0 хвилин</item>
+        <item>1 хвилина</item>
+        <item>5 хвилин</item>
+        <item>10 хвилин</item>
+        <item>15 хвилин</item>
+        <item>20 хвилин</item>
+        <item>25 хвилин</item>
+        <item>30 хвилин</item>
+        <item>45 хвилин</item>
+        <item>1 година</item>
+        <item>2 години</item>
+        <item>3 години</item>
+        <item>12 годин</item>
+        <item>24 години</item>
+        <item>2 дня</item>
+        <item>1 тиждень</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Регіональні налаштування за замовчуванням</item>
+        <item>субота</item>
+        <item>неділя</item>
+        <item>понеділок</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>Маршалловы о-ва</item>
+        <item>Остров Мидуэй</item>
+        <item>Гавайи</item>
+        <item>Аляска</item>
+        <item>Тихоокеан. время</item>
+        <item>Тихуана</item>
+        <item>Аризона</item>
+        <item>Чиуауа</item>
+        <item>Горное время</item>
+        <item>Центр. Америка</item>
+        <item>Центр. время</item>
+        <item>Мехико</item>
+        <item>Саскачеван</item>
+        <item>Богота</item>
+        <item>Восточное время</item>
+        <item>Венесуэла</item>
+        <item>Атлант. время (Барбадос)</item>
+        <item>Атлант. время (Канада)</item>
+        <item>Манаус</item>
+        <item>Сантьяго</item>
+        <item>Ньюфаундленд</item>
+        <item>Бразилиа</item>
+        <item>Буэнос-Айрес</item>
+        <item>Гренландия</item>
+        <item>Монтевидео</item>
+        <item>Среднеатлантические штаты</item>
+        <item>Азорские острова</item>
+        <item>Кабо-Верде</item>
+        <item>Касабланка</item>
+        <item>Лондон, Дублин</item>
+        <item>Амстердам, Берлин</item>
+        <item>Белград</item>
+        <item>Брюссель</item>
+        <item>Сараево</item>
+        <item>Виндхук</item>
+        <item>Зап.-афр. время</item>
+        <item>Амман, Иордания</item>
+        <item>Афины, Стамбул</item>
+        <item>Бейрут, Ливан</item>
+        <item>Каир</item>
+        <item>Хельсинки</item>
+        <item>Иерусалим</item>
+        <item>Минск</item>
+        <item>Хараре</item>
+        <item>Багдад</item>
+        <item>Москва</item>
+        <item>Кувейт</item>
+        <item>Найроби</item>
+        <item>Тегеран</item>
+        <item>Баку</item>
+        <item>Тбилиси</item>
+        <item>Ереван</item>
+        <item>Дубай</item>
+        <item>Кабул</item>
+        <item>Исламабад, Карачи</item>
+        <item>Уральск</item>
+        <item>Екатеринбург</item>
+        <item>Калькутта</item>
+        <item>Шри-Ланка</item>
+        <item>Катманду</item>
+        <item>Астана</item>
+        <item>Янгон</item>
+        <item>Красноярск</item>
+        <item>Бангкок</item>
+        <item>Пекин</item>
+        <item>Гонконг</item>
+        <item>Иркутск</item>
+        <item>Куала-Лумпур</item>
+        <item>Перт</item>
+        <item>Тайбэй</item>
+        <item>Сеул</item>
+        <item>Токио, Осака</item>
+        <item>Якутск</item>
+        <item>Аделаида</item>
+        <item>Дарвин</item>
+        <item>Брисбен</item>
+        <item>Хобарт</item>
+        <item>Сидней, Канберра</item>
+        <item>Владивосток</item>
+        <item>Гуам</item>
+        <item>Магадан</item>
+        <item>Окленд</item>
+        <item>Фиджи</item>
+        <item>Тонга</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Зайнятий</item>
+        <item>Доступний</item>
+        <item>Можливо</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>За замовчуванням</item>
+        <item>Закрите</item>
+        <item>Для всіх</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>перший</item>
+        <item>другий</item>
+        <item>третій</item>
+        <item>четвертий</item>
+        <item>останній</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>Не відповіли</item>
+        <item>Так</item>
+        <item>Можливо</item>
+        <item>Ні</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Тільки цей захід</item>
+        <item>Цей і майбутній заходи</item>
+        <item>Всі заходи</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Цей і майбутній заходи</item>
+        <item>Всі заходи</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Тільки цей захід</item>
+        <item>Всі подібні заходи</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>День</item>
+        <item>Тиждень</item>
+        <item>Місяць</item>
+        <item>Порядок денний</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>Затримуюся на кілька хвилин.</item>
+        <item>Буду десь через 10 хвилин.</item>
+        <item>Починайте без мене.</item>
+        <item>На жаль, я не встигаю. Доведеться перенести захід.</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Завжди</item>
+        <item>Лише в беззучному режимі</item>
+        <item>Ніколи</item>
+    </string-array>
+</resources>
